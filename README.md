@@ -44,8 +44,12 @@ Step 3: Repeat the  iteration  until the losses become constant and minimum
 	     
 Step 4 : Test for the XOR patterns.
 
-** PROGRAM** 
-~~~
+PROGRAM:
+```
+Name: Bharathwaj R
+Reg NO: 212222240019
+```
+```
 
 import numpy as np
 import pandas as pd
@@ -106,8 +110,8 @@ test=np.array([[1],[0]])
 predict(w1,w2,test)
 test=np.array([[1],[1]])
 predict(w1,w2,test)
+```
 
-~~~
 OUTPUT :
 
 ![image](https://github.com/BHARATHWAJRAMESH/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/119394248/7828ad2b-12a3-43ee-8847-469d97a62c9f)
